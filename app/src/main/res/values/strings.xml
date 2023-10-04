@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FLAVIO_VICENTIN_RM87231</string>
+    <string name="title">CORRIDA DE CAVALOS</string>
+    <string name="start">INICIAR</string>
+    <string name="stop">PARAR</string>
+    <string name="horse1">CAVALO AZUL</string>
+    <string name="horse2">CAVALO VERMELHO</string>
+    <string name="winner">CAVALO VENCEDOR</string>
+</resources>
